@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>No</th>
+    <th>Item</th>
+    <th>Transport</th>
+  </tr>
+  
+  <tr>
+    <td>Malaysia</td>
+   		<td> 1.kedah
+<ul>
+  <li>Langkawi</li>
+  <li>Gunung jerai</li>
+</ul>
+
+
+
+	2.Penang
+<ul>
+  <li>Balik pulau</li>
+  <li>Tanjung bunga</li>
+</ul>
+
+</td>
+    <td> Bus 
+<br>
+<br>
+ Airplane
+ </td>
+    
+  <tr>
+    <td>Arab Saudi</td>
+    	<td>3.Mekah
+    
+   <ol type="i" start="1">
+		<li>Masjid al-Haram</li>
+		<li>Bukit Safa</li>
+ </ol>
+<ol type="a" start="11">
+		<li>Gua hira</li>
+	</ol>
+     <td> Airplane </td>
+  </ol>
+  
+</table>
+
+
+</body>
+</html>
